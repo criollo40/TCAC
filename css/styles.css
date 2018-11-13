@@ -130,7 +130,7 @@ blockquote .small::before, blockquote footer::before, blockquote small::before {
 
 
 
-#logo-white { display:block; background:url(../images/bg-logo-white.png) center no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; position:absolute; top:52%; left:50%; margin-left:-50px; z-index:2 }
+#logo-white { display:block; background:url(../images/SmallLogo.jpg) center no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; position:absolute; top:52%; left:50%; margin-left:-50px; z-index:2 }
 
 .numbers, h1, h2, h3, h4, h5, h6 { line-height:1.3; color:#2b2b2b; display:block; position:relative; font-family:"Oswald", Arial, Helvetica, sans-serif; font-weight:400; }
 .with-bg h1, .with-bg h2, .with-bg h3, .with-bg h4, .with-bg h5, .with-bg h6 { color:#fff; }
